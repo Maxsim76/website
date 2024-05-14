@@ -1,0 +1,27 @@
+body {
+    background-image: url('images/джунгли 2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+picture {
+    margin: 50 50 50 50;
+}
+
+.text {
+  width: 20%;
+}
+
+.outline {
+  border: 1px solid rgb(255, 0, 179);
+  padding: 0 10px;
+}
+
+.features-block {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    span {
+      float: left;
+    }
+  }
